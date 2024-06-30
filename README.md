@@ -1,4 +1,7 @@
-## Hi there 👋
+## Olá👋
 
-- 🌱 I’m currently learning htmml, css3, javascript
+- Sou Guilherme
+- Curso Ciência da Computação
+- Estou estudando HTML5, CSS3 e Javascript
+
 
